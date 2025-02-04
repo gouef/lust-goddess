@@ -1,7 +1,7 @@
 {
-  "name": "web-project",
+  "name": "lust-goddess",
   "version": "1.0.0",
-  "description": "web-project",
+  "description": "Lust Goddess",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
